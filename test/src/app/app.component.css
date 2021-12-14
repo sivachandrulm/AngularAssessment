@@ -1,0 +1,16 @@
+.text{
+    border: 2px #fc9403 solid;
+    min-height: 179px;
+    min-width: 500px;
+    border-radius: 10px;
+}
+
+textarea:focus { 
+    outline: none !important;
+    border-color: #fc9403;
+    box-shadow: 0 0 3px #fc9403;
+ }
+
+.hello{
+    background-color: #fc9403 !important;  
+}
